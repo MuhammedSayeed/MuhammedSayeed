@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Muhammed and i'm Mern stack developer ✨</p>
+<h4 align="left">I'm Muhammed and i'm Mern stack developer ✨</h4>
 
 ###
 
@@ -45,6 +45,20 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Contact Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammed-sayedd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
